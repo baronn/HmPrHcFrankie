@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomePrjHc</string>
+    <string name="search_hint">Search for a city</string>
+    <string name="confirm_txt_btn">Confirm</string>
+    <string name="dismiss_txt_btn">Dismiss</string>
+    <string name="dialog_title">An Error Happened</string>
+    <string name="dialog_text">We are sorry, there was a problem with your request, please try again later</string>
+</resources>
